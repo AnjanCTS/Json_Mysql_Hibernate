@@ -1,0 +1,3 @@
+{"container":{"id":"PWUUSA","services":[{"id":"AZPC","name":"AMAZON PAYCODE","seearch":{"keys":[{"key":"PAYCODE","is_enabled":true},{"key":"QRCODE","is_enabled":true}]}}]}}
+{"container":{"id":"PWUHKG","services":[{"id":"AZPC","name":"AMAZON PAYCODE","seearch":{"keys":[{"key":"PAYCODE","is_enabled":true},{"key":"QRCODE","is_enabled":true}]}}]}}
+{"container":{"id":"PWUKEN","services":[{"id":"AZPC","name":"AMAZON PAYCODE","seearch":{"keys":[{"key":"PAYCODE","is_enabled":true},{"key":"QRCODE","is_enabled":true}]}}]}}
